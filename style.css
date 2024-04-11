@@ -1,0 +1,23 @@
+body {
+  background-color: #f5f5dd;
+}
+.square1 {
+  width: 5cm;
+  height: 5cm;
+  background-color: black;
+}
+.square2 {
+  width: 5cm;
+  height: 5cm;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.square3 {
+  width: 5cm;
+  height: 5cm;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.square4 {
+  width: 5cm;
+  height: 5cm;
+  background-color: rgba(0, 0, 0, 0.3);
+}
